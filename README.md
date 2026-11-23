@@ -14,9 +14,10 @@ The smart hourglass is an electro-mechanical timing and sand-level monitoring pr
 ## 📂 Repository Structure
 
 ```
-├── SourceCode/              # Arduino / C++ embedded source code (.ino)
-├── Diagrams/                # Schematic and wiring diagrams
 ├── 3D Model/                # Standard solid models for CNC/modification (.step)
+├── Diagrams/                # Schematic and wiring diagrams
+├── Pictures/                # Pictures of designs
+├── SourceCode/              # Arduino / C++ embedded source code (.ino)
 └── README.md                # Project documentation
 ```
 
