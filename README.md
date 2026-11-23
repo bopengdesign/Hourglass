@@ -23,7 +23,7 @@ The smart hourglass is an electro-mechanical timing and sand-level monitoring pr
 ---
 
 ## 🛠️ Hardware & Software Requirements
-* **Microcontroller:** Arduino Uno ESP32
+* **Microcontroller:** Arduino Nano ESP32
 * **Sensors & Actuators:** VL53L0X * 2, Rotary Encoder, Passive Buzzer, LED Strip, MOSFET
 * **IDE & Libraries:** Arduino IDE (v2.3.8) — Required libraries: Arduino.h, Wire.h, Adafruit_VL53L0X.h, AdafruitIO_WiFi.h
 
